@@ -20,7 +20,9 @@ Development Environment: Android Studio
 ## Screenshots:
 ![Screenshot 2024-03-06 001432](https://github.com/KartikG69/RoomTodoApp/assets/95529213/fdbc195d-7948-418e-8cc3-f5c0643d70cc)
 ![Screenshot 2024-03-06 001616](https://github.com/KartikG69/RoomTodoApp/assets/95529213/bcbf777e-03f9-4362-bc11-90dd59907f0b)
-![Screenshot 2024-03-06 001332](https://github.com/KartikG69/RoomTodoApp/assets/95529213/47e7f607-0bcc-4d26-836d-7d93bcf37e83)
+![Screenshot 2024-03-06 003358](https://github.com/KartikG69/RoomTodoApp/assets/95529213/8f5d8d05-1c02-4e6b-9661-29ccfd904c01)
+![Screenshot 2024-03-06 003424](https://github.com/KartikG69/RoomTodoApp/assets/95529213/0a5b5c76-d6b5-4d4b-aa65-4da41c845404)
+
 
 ## Additional Notes:
 *This project adheres to the principles of Clean Architecture, promoting separation of concerns and improved maintainability.
